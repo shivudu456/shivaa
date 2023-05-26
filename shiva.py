@@ -28,3 +28,9 @@ s2.dispstudentdata()
 
 
 print('Hi')
+
+print('One')
+
+print('One')
+
+print('two')
